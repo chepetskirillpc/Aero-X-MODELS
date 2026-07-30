@@ -76,12 +76,12 @@ button:hover {
 }
 
 .light-theme {
-    background: #f5f5f5;
+    background: #b9b8b8;
     color: #222;
 }
 
 .light-theme .card {
-    background: white;
+    background: rgb(161, 156, 235);
 }
 
 .light-theme .status {
