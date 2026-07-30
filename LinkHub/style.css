@@ -71,7 +71,8 @@ button {
 }
 
 button:hover {
-    background: #00a844;
+    background: #3b02d6;
+    color: rgb(120, 217, 224);
 }
 
 .light-theme {
